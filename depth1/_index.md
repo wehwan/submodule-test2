@@ -2,7 +2,7 @@
 weight: 1
 bookCollapseSection: true
 
-title: submodule 2
+title: submodule 2 - depth
 type: docs
 ---
 
